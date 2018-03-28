@@ -1,0 +1,14 @@
+{
+  "appType": "scaffold",
+  "appName": "testswiftproject01",
+  "docker": true,
+  "metrics": true,
+  "bluemix": {
+    "backendPlatform": "SWIFT",
+    "name": "testswiftproject01",
+    "server": {
+      "name": "testswiftproject01",
+      "env": {}
+    }
+  }
+}
