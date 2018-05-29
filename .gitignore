@@ -1,2 +1,4 @@
 .build-ubuntu
-.master
+.bluemix
+.cfignore
+.dockerignore
